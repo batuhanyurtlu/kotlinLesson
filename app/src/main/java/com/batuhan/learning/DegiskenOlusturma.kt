@@ -375,7 +375,7 @@ for (index in 10..20 step 5){
  */   // --------------------DİZİLER-----------------------------
 
 
-    /*
+
 val dizi1 = Array<Int>(5){0} // [0,0,0,0,0]
     val dizi2 = arrayListOf(1,10,"Elma","Amasya") // eğer <türünü belirtmessen> karışık elemanlar yazabilirsin.(hem string hem int türünde)
 val dizi3 = arrayListOf<Int>(1,12,35)
@@ -399,7 +399,7 @@ println(meyveler.isEmpty())
     println(meyveler.sort())
     println(meyveler.contentToString()) //Elemanlarını sırala demek.
 
-     */
+
     /*
     val meyveler = arrayListOf<String>("Çilek","Muz","Elma","Kivi","Kiraz")
 
